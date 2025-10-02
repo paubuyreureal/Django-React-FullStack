@@ -4,7 +4,7 @@ A very basic full-stack notes application built with React (frontend) and Django
 
 Users can register, login, and manage their personal notes with JWT authentication. 
 
-> **Note**: This is a basic starter project. For a more complex example with advanced features and deployment, check out my [PasswordManager project](link?) which is deployed on GitHub Codespaces. 
+> **Note**: This is a basic starter project. For a more complex example with advanced features and deployment, check out my [PasswordManager](https://github.com/paubuyreureal/PasswordManager) project which is deployed on GitHub Codespaces. 
 
 ## 🚀 Features
 
